@@ -1,5 +1,10 @@
 # 🚀 大模型算法岗实习面经 | 包含 DeepSeek/Qwen 技术报告解析、手撕 PPO/RoPE/Transformer、RLHF 核心与八股文 | 持续更新中... [笔记链接](https://my.feishu.cn/wiki/Ipm5woCF1i28pPkFqtMcAhQyndh?from=from_copylink)
 
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Junvate/LLM-Algorithm-Intern-Guide&type=Date)](https://star-history.com/#Junvate/LLM-Algorithm-Intern-Guide&Date)
+
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
